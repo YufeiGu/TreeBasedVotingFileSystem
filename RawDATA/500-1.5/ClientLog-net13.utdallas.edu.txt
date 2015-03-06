@@ -1,0 +1,4032 @@
+Request  net13.utdallas.edu,D1,1 
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D1,1 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,2 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Withdraw net13.utdallas.edu,D0,2 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,3 
+Withdraw net13.utdallas.edu,D0,3 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,4 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D1,4 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,5 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D3,5 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,6 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:6
+Commit  net13.utdallas.edu,D3,6 
+Request  net13.utdallas.edu,D1,7 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:7
+Commit  net13.utdallas.edu,D1,7 
+Request  net13.utdallas.edu,D1,8 
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Withdraw net13.utdallas.edu,D1,8 
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,9 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D1,9 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,10 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:10
+Commit  net13.utdallas.edu,D2,10 
+Request  net13.utdallas.edu,D0,11 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D0,11 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,12 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Withdraw net13.utdallas.edu,D2,12 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,13 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+iscommit == true
+commit:13
+Commit  net13.utdallas.edu,D3,13 
+iscommit == true
+Request  net13.utdallas.edu,D3,14 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:14
+Commit  net13.utdallas.edu,D3,14 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,15 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Withdraw net13.utdallas.edu,D0,15 
+iscommit == true
+Request  net13.utdallas.edu,D3,16 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:16
+Commit  net13.utdallas.edu,D3,16 
+Request  net13.utdallas.edu,D0,17 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Withdraw net13.utdallas.edu,D0,17 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,18 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:18
+Commit  net13.utdallas.edu,D0,18 
+Request  net13.utdallas.edu,D3,19 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:19
+Commit  net13.utdallas.edu,D3,19 
+Request  net13.utdallas.edu,D2,20 
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:20
+Commit  net13.utdallas.edu,D2,20 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,21 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:21
+Commit  net13.utdallas.edu,D1,21 
+Request  net13.utdallas.edu,D1,22 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:22
+Commit  net13.utdallas.edu,D1,22 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,23 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:23
+Commit  net13.utdallas.edu,D1,23 
+Request  net13.utdallas.edu,D0,24 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:24
+Commit  net13.utdallas.edu,D0,24 
+Request  net13.utdallas.edu,D0,25 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Consistency!
+iscommit == true
+commit:25
+Commit  net13.utdallas.edu,D0,25 
+Request  net13.utdallas.edu,D3,26 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Withdraw net13.utdallas.edu,D3,26 
+iscommit == true
+Request  net13.utdallas.edu,D3,27 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D3,27 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,28 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:28
+Commit  net13.utdallas.edu,D3,28 
+Request  net13.utdallas.edu,D3,29 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:29
+Commit  net13.utdallas.edu,D3,29 
+Request  net13.utdallas.edu,D0,30 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,30 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,31 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Withdraw net13.utdallas.edu,D2,31 
+iscommit == true
+Request  net13.utdallas.edu,D3,32 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:32
+Commit  net13.utdallas.edu,D3,32 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,33 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:33
+Commit  net13.utdallas.edu,D2,33 
+Request  net13.utdallas.edu,D2,34 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:34
+Commit  net13.utdallas.edu,D2,34 
+Request  net13.utdallas.edu,D0,35 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:35
+Commit  net13.utdallas.edu,D0,35 
+Request  net13.utdallas.edu,D0,36 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:36
+Commit  net13.utdallas.edu,D0,36 
+Request  net13.utdallas.edu,D3,37 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D3,37 
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,38 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:38
+Commit  net13.utdallas.edu,D2,38 
+Request  net13.utdallas.edu,D3,39 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:39
+Commit  net13.utdallas.edu,D3,39 
+Request  net13.utdallas.edu,D0,40 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Consistency!
+commit:40
+Commit  net13.utdallas.edu,D0,40 
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,41 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Withdraw net13.utdallas.edu,D3,41 
+iscommit == true
+Request  net13.utdallas.edu,D2,42 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:42
+Commit  net13.utdallas.edu,D2,42 
+Request  net13.utdallas.edu,D2,43 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:43
+Commit  net13.utdallas.edu,D2,43 
+Request  net13.utdallas.edu,D1,44 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:44
+Commit  net13.utdallas.edu,D1,44 
+Request  net13.utdallas.edu,D1,45 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:45
+Commit  net13.utdallas.edu,D1,45 
+Request  net13.utdallas.edu,D0,46 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:46
+Commit  net13.utdallas.edu,D0,46 
+iscommit == true
+Request  net13.utdallas.edu,D3,47 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:47
+Commit  net13.utdallas.edu,D3,47 
+Request  net13.utdallas.edu,D0,48 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:48
+Commit  net13.utdallas.edu,D0,48 
+Request  net13.utdallas.edu,D1,49 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Withdraw net13.utdallas.edu,D1,49 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,50 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+iscommit == true
+commit:50
+iscommit == true
+Commit  net13.utdallas.edu,D0,50 
+iscommit == true
+Request  net13.utdallas.edu,D2,51 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:51
+Commit  net13.utdallas.edu,D2,51 
+Request  net13.utdallas.edu,D3,52 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:52
+Commit  net13.utdallas.edu,D3,52 
+Request  net13.utdallas.edu,D1,53 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:53
+Commit  net13.utdallas.edu,D1,53 
+Request  net13.utdallas.edu,D2,54 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Withdraw net13.utdallas.edu,D2,54 
+iscommit == true
+Request  net13.utdallas.edu,D3,55 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D3,55 
+iscommit == true
+Request  net13.utdallas.edu,D1,56 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D1,56 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,57 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Withdraw net13.utdallas.edu,D1,57 
+iscommit == true
+Request  net13.utdallas.edu,D0,58 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:58
+Commit  net13.utdallas.edu,D0,58 
+iscommit == true
+Request  net13.utdallas.edu,D3,59 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:59
+Commit  net13.utdallas.edu,D3,59 
+Request  net13.utdallas.edu,D2,60 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:60
+Commit  net13.utdallas.edu,D2,60 
+Request  net13.utdallas.edu,D3,61 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:61
+Commit  net13.utdallas.edu,D3,61 
+Request  net13.utdallas.edu,D1,62 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:62
+Commit  net13.utdallas.edu,D1,62 
+Request  net13.utdallas.edu,D2,63 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:63
+Commit  net13.utdallas.edu,D2,63 
+Request  net13.utdallas.edu,D2,64 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:64
+Commit  net13.utdallas.edu,D2,64 
+Request  net13.utdallas.edu,D2,65 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Consistency!
+Receive grant from server:net09.utdallas.edu
+Consistency!
+commit:65
+commit:65
+Commit  net13.utdallas.edu,D2,65 
+Commit  net13.utdallas.edu,D2,65 
+Request  net13.utdallas.edu,D2,66 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:66
+Commit  net13.utdallas.edu,D2,66 
+Request  net13.utdallas.edu,D2,67 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:67
+Commit  net13.utdallas.edu,D2,67 
+Request  net13.utdallas.edu,D3,68 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:68
+Commit  net13.utdallas.edu,D3,68 
+iscommit == true
+Request  net13.utdallas.edu,D2,69 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:69
+Commit  net13.utdallas.edu,D2,69 
+Request  net13.utdallas.edu,D1,70 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D1,70 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,71 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:71
+Commit  net13.utdallas.edu,D2,71 
+Request  net13.utdallas.edu,D3,72 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:72
+Commit  net13.utdallas.edu,D3,72 
+Request  net13.utdallas.edu,D0,73 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:73
+Commit  net13.utdallas.edu,D0,73 
+Request  net13.utdallas.edu,D0,74 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:74
+Commit  net13.utdallas.edu,D0,74 
+Request  net13.utdallas.edu,D1,75 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:75
+Commit  net13.utdallas.edu,D1,75 
+Request  net13.utdallas.edu,D3,76 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:76
+Commit  net13.utdallas.edu,D3,76 
+Request  net13.utdallas.edu,D3,77 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:77
+Commit  net13.utdallas.edu,D3,77 
+Request  net13.utdallas.edu,D1,78 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D1,78 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,79 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D1,79 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,80 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:80
+Commit  net13.utdallas.edu,D2,80 
+Request  net13.utdallas.edu,D1,81 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:81
+Commit  net13.utdallas.edu,D1,81 
+Request  net13.utdallas.edu,D0,82 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Request  net13.utdallas.edu,D2,83 
+Withdraw net13.utdallas.edu,D0,82 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Withdraw net13.utdallas.edu,D2,83 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,84 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:84
+Commit  net13.utdallas.edu,D2,84 
+Request  net13.utdallas.edu,D0,85 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:85
+Commit  net13.utdallas.edu,D0,85 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,86 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:86
+Commit  net13.utdallas.edu,D3,86 
+Request  net13.utdallas.edu,D0,87 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:87
+Commit  net13.utdallas.edu,D0,87 
+Request  net13.utdallas.edu,D0,88 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:88
+Commit  net13.utdallas.edu,D0,88 
+Request  net13.utdallas.edu,D2,89 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Consistency!
+iscommit == true
+commit:89
+Commit  net13.utdallas.edu,D2,89 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,90 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:90
+Commit  net13.utdallas.edu,D0,90 
+Request  net13.utdallas.edu,D3,91 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D3,91 
+Request  net13.utdallas.edu,D3,92 
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D3,92 
+iscommit == true
+Request  net13.utdallas.edu,D0,93 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,93 
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,94 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,94 
+iscommit == true
+Request  net13.utdallas.edu,D3,95 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D3,95 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,96 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,96 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,97 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:97
+Commit  net13.utdallas.edu,D3,97 
+Request  net13.utdallas.edu,D0,98 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:98
+Commit  net13.utdallas.edu,D0,98 
+Request  net13.utdallas.edu,D1,99 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:99
+Commit  net13.utdallas.edu,D1,99 
+Request  net13.utdallas.edu,D0,100 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:100
+Commit  net13.utdallas.edu,D0,100 
+iscommit == true
+Request  net13.utdallas.edu,D2,101 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:101
+Commit  net13.utdallas.edu,D2,101 
+Request  net13.utdallas.edu,D3,102 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:102
+Commit  net13.utdallas.edu,D3,102 
+Request  net13.utdallas.edu,D3,103 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Withdraw net13.utdallas.edu,D3,103 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,104 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+iscommit == true
+commit:104
+Commit  net13.utdallas.edu,D0,104 
+Request  net13.utdallas.edu,D2,105 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:105
+Commit  net13.utdallas.edu,D2,105 
+Request  net13.utdallas.edu,D2,106 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:106
+Commit  net13.utdallas.edu,D2,106 
+Request  net13.utdallas.edu,D3,107 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D3,107 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,108 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,108 
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,109 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:109
+Commit  net13.utdallas.edu,D1,109 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,110 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:110
+Commit  net13.utdallas.edu,D2,110 
+Request  net13.utdallas.edu,D3,111 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:111
+Commit  net13.utdallas.edu,D3,111 
+Request  net13.utdallas.edu,D2,112 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Withdraw net13.utdallas.edu,D2,112 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,113 
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D3,113 
+iscommit == true
+Request  net13.utdallas.edu,D0,114 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+iscommit == true
+commit:114
+Commit  net13.utdallas.edu,D0,114 
+iscommit == true
+Request  net13.utdallas.edu,D2,115 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:115
+Commit  net13.utdallas.edu,D2,115 
+Request  net13.utdallas.edu,D0,116 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:116
+Commit  net13.utdallas.edu,D0,116 
+Request  net13.utdallas.edu,D3,117 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:117
+Commit  net13.utdallas.edu,D3,117 
+Request  net13.utdallas.edu,D2,118 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:118
+Commit  net13.utdallas.edu,D2,118 
+Request  net13.utdallas.edu,D2,119 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D2,119 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,120 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:120
+Commit  net13.utdallas.edu,D3,120 
+Request  net13.utdallas.edu,D2,121 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:121
+Commit  net13.utdallas.edu,D2,121 
+Request  net13.utdallas.edu,D2,122 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:122
+Commit  net13.utdallas.edu,D2,122 
+Request  net13.utdallas.edu,D1,123 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D1,123 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,124 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:124
+Commit  net13.utdallas.edu,D2,124 
+Request  net13.utdallas.edu,D0,125 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,125 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,126 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:126
+Commit  net13.utdallas.edu,D0,126 
+Request  net13.utdallas.edu,D0,127 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,127 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,128 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:128
+Commit  net13.utdallas.edu,D0,128 
+Request  net13.utdallas.edu,D3,129 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D3,129 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,130 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:130
+Commit  net13.utdallas.edu,D2,130 
+Request  net13.utdallas.edu,D2,131 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:131
+Commit  net13.utdallas.edu,D2,131 
+Request  net13.utdallas.edu,D1,132 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:132
+Commit  net13.utdallas.edu,D1,132 
+Request  net13.utdallas.edu,D3,133 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:133
+Commit  net13.utdallas.edu,D3,133 
+Request  net13.utdallas.edu,D0,134 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:134
+Commit  net13.utdallas.edu,D0,134 
+Request  net13.utdallas.edu,D3,135 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:135
+Commit  net13.utdallas.edu,D3,135 
+Request  net13.utdallas.edu,D2,136 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:136
+Commit  net13.utdallas.edu,D2,136 
+Request  net13.utdallas.edu,D1,137 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:137
+Commit  net13.utdallas.edu,D1,137 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,138 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:138
+Commit  net13.utdallas.edu,D0,138 
+Request  net13.utdallas.edu,D1,139 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:139
+Commit  net13.utdallas.edu,D1,139 
+Request  net13.utdallas.edu,D1,140 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D1,140 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,141 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:141
+Commit  net13.utdallas.edu,D2,141 
+Request  net13.utdallas.edu,D1,142 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:142
+Commit  net13.utdallas.edu,D1,142 
+Request  net13.utdallas.edu,D3,143 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:143
+Commit  net13.utdallas.edu,D3,143 
+Request  net13.utdallas.edu,D1,144 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Consistency!
+commit:144
+Commit  net13.utdallas.edu,D1,144 
+Request  net13.utdallas.edu,D2,145 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:145
+Commit  net13.utdallas.edu,D2,145 
+Request  net13.utdallas.edu,D0,146 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,146 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,147 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:147
+Commit  net13.utdallas.edu,D3,147 
+Request  net13.utdallas.edu,D1,148 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:148
+Commit  net13.utdallas.edu,D1,148 
+Request  net13.utdallas.edu,D0,149 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:149
+Commit  net13.utdallas.edu,D0,149 
+Request  net13.utdallas.edu,D0,150 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:150
+Commit  net13.utdallas.edu,D0,150 
+Request  net13.utdallas.edu,D1,151 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:151
+Commit  net13.utdallas.edu,D1,151 
+Request  net13.utdallas.edu,D1,152 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Withdraw net13.utdallas.edu,D1,152 
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,153 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Withdraw net13.utdallas.edu,D0,153 
+iscommit == true
+Request  net13.utdallas.edu,D3,154 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:154
+Commit  net13.utdallas.edu,D3,154 
+Request  net13.utdallas.edu,D0,155 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:155
+Commit  net13.utdallas.edu,D0,155 
+Request  net13.utdallas.edu,D0,156 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:156
+Commit  net13.utdallas.edu,D0,156 
+Request  net13.utdallas.edu,D3,157 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:157
+Commit  net13.utdallas.edu,D3,157 
+Request  net13.utdallas.edu,D3,158 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Consistency!
+commit:158
+Commit  net13.utdallas.edu,D3,158 
+iscommit == true
+Request  net13.utdallas.edu,D1,159 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:159
+Commit  net13.utdallas.edu,D1,159 
+Request  net13.utdallas.edu,D1,160 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+iscommit == true
+commit:160
+Commit  net13.utdallas.edu,D1,160 
+iscommit == true
+Request  net13.utdallas.edu,D3,161 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Consistency!
+commit:161
+iscommit == true
+Commit  net13.utdallas.edu,D3,161 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,162 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:162
+Commit  net13.utdallas.edu,D2,162 
+Request  net13.utdallas.edu,D0,163 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:163
+Commit  net13.utdallas.edu,D0,163 
+Request  net13.utdallas.edu,D3,164 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:164
+Commit  net13.utdallas.edu,D3,164 
+Request  net13.utdallas.edu,D3,165 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:165
+Commit  net13.utdallas.edu,D3,165 
+Request  net13.utdallas.edu,D0,166 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:166
+Commit  net13.utdallas.edu,D0,166 
+Request  net13.utdallas.edu,D1,167 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:167
+Commit  net13.utdallas.edu,D1,167 
+Request  net13.utdallas.edu,D3,168 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:168
+iscommit == true
+Commit  net13.utdallas.edu,D3,168 
+iscommit == true
+Request  net13.utdallas.edu,D2,169 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D2,169 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,170 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:170
+Commit  net13.utdallas.edu,D1,170 
+Request  net13.utdallas.edu,D2,171 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:171
+Commit  net13.utdallas.edu,D2,171 
+Request  net13.utdallas.edu,D0,172 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:172
+Commit  net13.utdallas.edu,D0,172 
+Request  net13.utdallas.edu,D3,173 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:173
+Commit  net13.utdallas.edu,D3,173 
+iscommit == true
+Request  net13.utdallas.edu,D1,174 
+Receive grant from server:net06.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Consistency!
+commit:174
+Commit  net13.utdallas.edu,D1,174 
+iscommit == true
+Request  net13.utdallas.edu,D0,175 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:175
+Commit  net13.utdallas.edu,D0,175 
+Request  net13.utdallas.edu,D1,176 
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Withdraw net13.utdallas.edu,D1,176 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,177 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+iscommit == true
+commit:177
+Commit  net13.utdallas.edu,D1,177 
+Request  net13.utdallas.edu,D1,178 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:178
+Commit  net13.utdallas.edu,D1,178 
+Request  net13.utdallas.edu,D3,179 
+Receive grant from server:net39.utdallas.edu
+Request  net13.utdallas.edu,D3,180 
+Withdraw net13.utdallas.edu,D3,179 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Withdraw net13.utdallas.edu,D3,180 
+Request  net13.utdallas.edu,D3,181 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Withdraw net13.utdallas.edu,D3,181 
+Request  net13.utdallas.edu,D0,182 
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Consistency!
+commit:182
+Commit  net13.utdallas.edu,D0,182 
+iscommit == true
+Request  net13.utdallas.edu,D2,183 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:183
+Commit  net13.utdallas.edu,D2,183 
+Request  net13.utdallas.edu,D0,184 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:184
+Commit  net13.utdallas.edu,D0,184 
+Request  net13.utdallas.edu,D0,185 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:185
+Commit  net13.utdallas.edu,D0,185 
+Request  net13.utdallas.edu,D0,186 
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Withdraw net13.utdallas.edu,D0,186 
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,187 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D2,187 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,188 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:188
+Commit  net13.utdallas.edu,D1,188 
+Request  net13.utdallas.edu,D2,189 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:189
+Commit  net13.utdallas.edu,D2,189 
+Request  net13.utdallas.edu,D2,190 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:190
+Commit  net13.utdallas.edu,D2,190 
+Request  net13.utdallas.edu,D2,191 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:191
+Commit  net13.utdallas.edu,D2,191 
+Request  net13.utdallas.edu,D0,192 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:192
+Commit  net13.utdallas.edu,D0,192 
+Request  net13.utdallas.edu,D2,193 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:193
+Commit  net13.utdallas.edu,D2,193 
+Request  net13.utdallas.edu,D2,194 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:194
+Commit  net13.utdallas.edu,D2,194 
+iscommit == true
+Request  net13.utdallas.edu,D1,195 
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D1,195 
+Request  net13.utdallas.edu,D1,196 
+iscommit == true
+iscommit == true
+iscommit == true
+Withdraw net13.utdallas.edu,D1,196 
+Request  net13.utdallas.edu,D1,197 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Withdraw net13.utdallas.edu,D1,197 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,198 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Consistency!
+commit:198
+Commit  net13.utdallas.edu,D2,198 
+iscommit == true
+Request  net13.utdallas.edu,D2,199 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:199
+Commit  net13.utdallas.edu,D2,199 
+Request  net13.utdallas.edu,D0,200 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:200
+Commit  net13.utdallas.edu,D0,200 
+Request  net13.utdallas.edu,D3,201 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:201
+Commit  net13.utdallas.edu,D3,201 
+Request  net13.utdallas.edu,D3,202 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:202
+Commit  net13.utdallas.edu,D3,202 
+Request  net13.utdallas.edu,D0,203 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:203
+Commit  net13.utdallas.edu,D0,203 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,204 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+iscommit == true
+commit:204
+Commit  net13.utdallas.edu,D0,204 
+Request  net13.utdallas.edu,D0,205 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:205
+Commit  net13.utdallas.edu,D0,205 
+iscommit == true
+Request  net13.utdallas.edu,D3,206 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:206
+Commit  net13.utdallas.edu,D3,206 
+Request  net13.utdallas.edu,D3,207 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:207
+Commit  net13.utdallas.edu,D3,207 
+iscommit == true
+Request  net13.utdallas.edu,D0,208 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:208
+Commit  net13.utdallas.edu,D0,208 
+Request  net13.utdallas.edu,D1,209 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:209
+Commit  net13.utdallas.edu,D1,209 
+iscommit == true
+Request  net13.utdallas.edu,D1,210 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Consistency!
+commit:210
+Commit  net13.utdallas.edu,D1,210 
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,211 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:211
+Commit  net13.utdallas.edu,D3,211 
+Request  net13.utdallas.edu,D2,212 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:212
+Commit  net13.utdallas.edu,D2,212 
+Request  net13.utdallas.edu,D3,213 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:213
+Commit  net13.utdallas.edu,D3,213 
+Request  net13.utdallas.edu,D1,214 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:214
+Commit  net13.utdallas.edu,D1,214 
+Request  net13.utdallas.edu,D2,215 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:215
+Commit  net13.utdallas.edu,D2,215 
+Request  net13.utdallas.edu,D0,216 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:216
+Commit  net13.utdallas.edu,D0,216 
+Request  net13.utdallas.edu,D1,217 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:217
+Commit  net13.utdallas.edu,D1,217 
+Request  net13.utdallas.edu,D3,218 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:218
+Commit  net13.utdallas.edu,D3,218 
+Request  net13.utdallas.edu,D0,219 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:219
+Commit  net13.utdallas.edu,D0,219 
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,220 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:220
+Commit  net13.utdallas.edu,D2,220 
+Request  net13.utdallas.edu,D3,221 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:221
+Commit  net13.utdallas.edu,D3,221 
+Request  net13.utdallas.edu,D2,222 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:222
+Commit  net13.utdallas.edu,D2,222 
+Request  net13.utdallas.edu,D0,223 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:223
+Commit  net13.utdallas.edu,D0,223 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,224 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:224
+Commit  net13.utdallas.edu,D2,224 
+Request  net13.utdallas.edu,D0,225 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:225
+Commit  net13.utdallas.edu,D0,225 
+Request  net13.utdallas.edu,D2,226 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D2,226 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,227 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:227
+Commit  net13.utdallas.edu,D1,227 
+Request  net13.utdallas.edu,D0,228 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:228
+Commit  net13.utdallas.edu,D0,228 
+iscommit == true
+Request  net13.utdallas.edu,D1,229 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:229
+Commit  net13.utdallas.edu,D1,229 
+iscommit == true
+Request  net13.utdallas.edu,D3,230 
+Receive grant from server:net06.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Consistency!
+commit:230
+iscommit == true
+Commit  net13.utdallas.edu,D3,230 
+Request  net13.utdallas.edu,D3,231 
+Withdraw net13.utdallas.edu,D3,231 
+Request  net13.utdallas.edu,D2,232 
+iscommit == true
+Withdraw net13.utdallas.edu,D2,232 
+iscommit == true
+Request  net13.utdallas.edu,D2,233 
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D2,233 
+iscommit == true
+Request  net13.utdallas.edu,D3,234 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:234
+Commit  net13.utdallas.edu,D3,234 
+Request  net13.utdallas.edu,D0,235 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:235
+Commit  net13.utdallas.edu,D0,235 
+Request  net13.utdallas.edu,D2,236 
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Consistency!
+commit:236
+Commit  net13.utdallas.edu,D2,236 
+Request  net13.utdallas.edu,D3,237 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:237
+Commit  net13.utdallas.edu,D3,237 
+Request  net13.utdallas.edu,D2,238 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:238
+Commit  net13.utdallas.edu,D2,238 
+Request  net13.utdallas.edu,D3,239 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:239
+Commit  net13.utdallas.edu,D3,239 
+Request  net13.utdallas.edu,D1,240 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:240
+Commit  net13.utdallas.edu,D1,240 
+iscommit == true
+Request  net13.utdallas.edu,D1,241 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:241
+Commit  net13.utdallas.edu,D1,241 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,242 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:242
+Commit  net13.utdallas.edu,D2,242 
+Request  net13.utdallas.edu,D1,243 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:243
+Commit  net13.utdallas.edu,D1,243 
+Request  net13.utdallas.edu,D2,244 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:244
+Commit  net13.utdallas.edu,D2,244 
+Request  net13.utdallas.edu,D0,245 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Withdraw net13.utdallas.edu,D0,245 
+iscommit == true
+Request  net13.utdallas.edu,D0,246 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:246
+Commit  net13.utdallas.edu,D0,246 
+Request  net13.utdallas.edu,D3,247 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:247
+Commit  net13.utdallas.edu,D3,247 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,248 
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Consistency!
+iscommit == true
+commit:248
+Commit  net13.utdallas.edu,D1,248 
+Request  net13.utdallas.edu,D1,249 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+iscommit == true
+commit:249
+Commit  net13.utdallas.edu,D1,249 
+Request  net13.utdallas.edu,D0,250 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:250
+Commit  net13.utdallas.edu,D0,250 
+Request  net13.utdallas.edu,D0,251 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:251
+Commit  net13.utdallas.edu,D0,251 
+Request  net13.utdallas.edu,D1,252 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:252
+Commit  net13.utdallas.edu,D1,252 
+Request  net13.utdallas.edu,D1,253 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:253
+Commit  net13.utdallas.edu,D1,253 
+Request  net13.utdallas.edu,D1,254 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:254
+Commit  net13.utdallas.edu,D1,254 
+Request  net13.utdallas.edu,D1,255 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:255
+Commit  net13.utdallas.edu,D1,255 
+Request  net13.utdallas.edu,D3,256 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:256
+Commit  net13.utdallas.edu,D3,256 
+Request  net13.utdallas.edu,D2,257 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D2,257 
+iscommit == true
+Request  net13.utdallas.edu,D0,258 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:258
+Commit  net13.utdallas.edu,D0,258 
+Request  net13.utdallas.edu,D2,259 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:259
+Commit  net13.utdallas.edu,D2,259 
+iscommit == true
+Request  net13.utdallas.edu,D0,260 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:260
+Commit  net13.utdallas.edu,D0,260 
+Request  net13.utdallas.edu,D1,261 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:261
+Commit  net13.utdallas.edu,D1,261 
+Request  net13.utdallas.edu,D2,262 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:262
+Commit  net13.utdallas.edu,D2,262 
+Request  net13.utdallas.edu,D0,263 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:263
+Commit  net13.utdallas.edu,D0,263 
+Request  net13.utdallas.edu,D0,264 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:264
+Commit  net13.utdallas.edu,D0,264 
+Request  net13.utdallas.edu,D2,265 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D2,265 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,266 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:266
+Commit  net13.utdallas.edu,D2,266 
+Request  net13.utdallas.edu,D2,267 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:267
+Commit  net13.utdallas.edu,D2,267 
+iscommit == true
+Request  net13.utdallas.edu,D2,268 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:268
+Commit  net13.utdallas.edu,D2,268 
+Request  net13.utdallas.edu,D2,269 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Consistency!
+commit:269
+Commit  net13.utdallas.edu,D2,269 
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,270 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D1,270 
+Request  net13.utdallas.edu,D3,271 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:271
+Commit  net13.utdallas.edu,D3,271 
+iscommit == true
+Request  net13.utdallas.edu,D1,272 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:272
+Commit  net13.utdallas.edu,D1,272 
+Request  net13.utdallas.edu,D3,273 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:273
+Commit  net13.utdallas.edu,D3,273 
+Request  net13.utdallas.edu,D3,274 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:274
+Commit  net13.utdallas.edu,D3,274 
+Request  net13.utdallas.edu,D2,275 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:275
+Commit  net13.utdallas.edu,D2,275 
+Request  net13.utdallas.edu,D2,276 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:276
+Commit  net13.utdallas.edu,D2,276 
+Request  net13.utdallas.edu,D0,277 
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Consistency!
+commit:277
+Commit  net13.utdallas.edu,D0,277 
+iscommit == true
+Request  net13.utdallas.edu,D3,278 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:278
+Commit  net13.utdallas.edu,D3,278 
+Request  net13.utdallas.edu,D1,279 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:279
+Commit  net13.utdallas.edu,D1,279 
+Request  net13.utdallas.edu,D0,280 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,280 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,281 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:281
+Commit  net13.utdallas.edu,D1,281 
+Request  net13.utdallas.edu,D0,282 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:282
+Commit  net13.utdallas.edu,D0,282 
+Request  net13.utdallas.edu,D1,283 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:283
+Commit  net13.utdallas.edu,D1,283 
+Request  net13.utdallas.edu,D2,284 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:284
+Commit  net13.utdallas.edu,D2,284 
+Request  net13.utdallas.edu,D0,285 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:285
+Commit  net13.utdallas.edu,D0,285 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,286 
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D2,286 
+Request  net13.utdallas.edu,D2,287 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:287
+Commit  net13.utdallas.edu,D2,287 
+Request  net13.utdallas.edu,D0,288 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:288
+Commit  net13.utdallas.edu,D0,288 
+Request  net13.utdallas.edu,D3,289 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:289
+Commit  net13.utdallas.edu,D3,289 
+Request  net13.utdallas.edu,D0,290 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:290
+Commit  net13.utdallas.edu,D0,290 
+iscommit == true
+Request  net13.utdallas.edu,D0,291 
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,291 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,292 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:292
+Commit  net13.utdallas.edu,D2,292 
+Request  net13.utdallas.edu,D1,293 
+Receive grant from server:net06.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D1,293 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,294 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:294
+Commit  net13.utdallas.edu,D3,294 
+Request  net13.utdallas.edu,D3,295 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:295
+Commit  net13.utdallas.edu,D3,295 
+Request  net13.utdallas.edu,D3,296 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D3,296 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,297 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,297 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,298 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:298
+Commit  net13.utdallas.edu,D3,298 
+Request  net13.utdallas.edu,D3,299 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:299
+Commit  net13.utdallas.edu,D3,299 
+Request  net13.utdallas.edu,D0,300 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:300
+Commit  net13.utdallas.edu,D0,300 
+Request  net13.utdallas.edu,D3,301 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:301
+Commit  net13.utdallas.edu,D3,301 
+Request  net13.utdallas.edu,D0,302 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:302
+Commit  net13.utdallas.edu,D0,302 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,303 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+iscommit == true
+commit:303
+Commit  net13.utdallas.edu,D2,303 
+Request  net13.utdallas.edu,D2,304 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:304
+Commit  net13.utdallas.edu,D2,304 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,305 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:305
+Commit  net13.utdallas.edu,D3,305 
+Request  net13.utdallas.edu,D3,306 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:306
+Commit  net13.utdallas.edu,D3,306 
+iscommit == true
+Request  net13.utdallas.edu,D1,307 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:307
+Commit  net13.utdallas.edu,D1,307 
+Request  net13.utdallas.edu,D3,308 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Consistency!
+iscommit == true
+commit:308
+Commit  net13.utdallas.edu,D3,308 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,309 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:309
+Commit  net13.utdallas.edu,D3,309 
+Request  net13.utdallas.edu,D2,310 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:310
+Commit  net13.utdallas.edu,D2,310 
+Request  net13.utdallas.edu,D0,311 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:311
+Commit  net13.utdallas.edu,D0,311 
+iscommit == true
+Request  net13.utdallas.edu,D3,312 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:312
+Commit  net13.utdallas.edu,D3,312 
+iscommit == true
+Request  net13.utdallas.edu,D1,313 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:313
+Commit  net13.utdallas.edu,D1,313 
+Request  net13.utdallas.edu,D3,314 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:314
+Commit  net13.utdallas.edu,D3,314 
+Request  net13.utdallas.edu,D0,315 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:315
+Commit  net13.utdallas.edu,D0,315 
+Request  net13.utdallas.edu,D2,316 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:316
+Commit  net13.utdallas.edu,D2,316 
+Request  net13.utdallas.edu,D2,317 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Consistency!
+commit:317
+Commit  net13.utdallas.edu,D2,317 
+Request  net13.utdallas.edu,D3,318 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:318
+Commit  net13.utdallas.edu,D3,318 
+Request  net13.utdallas.edu,D0,319 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:319
+Commit  net13.utdallas.edu,D0,319 
+Request  net13.utdallas.edu,D1,320 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:320
+Commit  net13.utdallas.edu,D1,320 
+iscommit == true
+Request  net13.utdallas.edu,D3,321 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:321
+Commit  net13.utdallas.edu,D3,321 
+Request  net13.utdallas.edu,D2,322 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D2,322 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,323 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:323
+Commit  net13.utdallas.edu,D1,323 
+Request  net13.utdallas.edu,D1,324 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:324
+Commit  net13.utdallas.edu,D1,324 
+Request  net13.utdallas.edu,D3,325 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:325
+Commit  net13.utdallas.edu,D3,325 
+Request  net13.utdallas.edu,D1,326 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:326
+Commit  net13.utdallas.edu,D1,326 
+Request  net13.utdallas.edu,D3,327 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Withdraw net13.utdallas.edu,D3,327 
+Request  net13.utdallas.edu,D0,328 
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D0,328 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,329 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:329
+Commit  net13.utdallas.edu,D1,329 
+Request  net13.utdallas.edu,D2,330 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:330
+Commit  net13.utdallas.edu,D2,330 
+Request  net13.utdallas.edu,D1,331 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:331
+Commit  net13.utdallas.edu,D1,331 
+Request  net13.utdallas.edu,D0,332 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:332
+Commit  net13.utdallas.edu,D0,332 
+Request  net13.utdallas.edu,D1,333 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:333
+Commit  net13.utdallas.edu,D1,333 
+Request  net13.utdallas.edu,D1,334 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:334
+Commit  net13.utdallas.edu,D1,334 
+Request  net13.utdallas.edu,D3,335 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:335
+Commit  net13.utdallas.edu,D3,335 
+Request  net13.utdallas.edu,D1,336 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:336
+Commit  net13.utdallas.edu,D1,336 
+Request  net13.utdallas.edu,D0,337 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:337
+Commit  net13.utdallas.edu,D0,337 
+Request  net13.utdallas.edu,D2,338 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D2,338 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,339 
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D0,339 
+Request  net13.utdallas.edu,D0,340 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:340
+Commit  net13.utdallas.edu,D0,340 
+Request  net13.utdallas.edu,D1,341 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:341
+Commit  net13.utdallas.edu,D1,341 
+Request  net13.utdallas.edu,D0,342 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:342
+Commit  net13.utdallas.edu,D0,342 
+Request  net13.utdallas.edu,D1,343 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:343
+Commit  net13.utdallas.edu,D1,343 
+Request  net13.utdallas.edu,D2,344 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Consistency!
+commit:344
+Commit  net13.utdallas.edu,D2,344 
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,345 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Request  net13.utdallas.edu,D0,346 
+Withdraw net13.utdallas.edu,D2,345 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Withdraw net13.utdallas.edu,D0,346 
+iscommit == true
+Request  net13.utdallas.edu,D3,347 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:347
+Commit  net13.utdallas.edu,D3,347 
+Request  net13.utdallas.edu,D2,348 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:348
+Commit  net13.utdallas.edu,D2,348 
+Request  net13.utdallas.edu,D0,349 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:349
+Commit  net13.utdallas.edu,D0,349 
+iscommit == true
+Request  net13.utdallas.edu,D0,350 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:350
+Commit  net13.utdallas.edu,D0,350 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,351 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:351
+Commit  net13.utdallas.edu,D2,351 
+iscommit == true
+Request  net13.utdallas.edu,D2,352 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:352
+Commit  net13.utdallas.edu,D2,352 
+iscommit == true
+Request  net13.utdallas.edu,D2,353 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+iscommit == true
+commit:353
+Commit  net13.utdallas.edu,D2,353 
+iscommit == true
+Request  net13.utdallas.edu,D2,354 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+iscommit == true
+commit:354
+Commit  net13.utdallas.edu,D2,354 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,355 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:355
+Commit  net13.utdallas.edu,D3,355 
+Request  net13.utdallas.edu,D3,356 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:356
+Commit  net13.utdallas.edu,D3,356 
+iscommit == true
+Request  net13.utdallas.edu,D0,357 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:357
+iscommit == true
+Commit  net13.utdallas.edu,D0,357 
+iscommit == true
+Request  net13.utdallas.edu,D3,358 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:358
+Commit  net13.utdallas.edu,D3,358 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,359 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:359
+Commit  net13.utdallas.edu,D3,359 
+Request  net13.utdallas.edu,D1,360 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:360
+Commit  net13.utdallas.edu,D1,360 
+Request  net13.utdallas.edu,D3,361 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:361
+Commit  net13.utdallas.edu,D3,361 
+Request  net13.utdallas.edu,D0,362 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:362
+Commit  net13.utdallas.edu,D0,362 
+Request  net13.utdallas.edu,D1,363 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:363
+Commit  net13.utdallas.edu,D1,363 
+Request  net13.utdallas.edu,D2,364 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:364
+Commit  net13.utdallas.edu,D2,364 
+Request  net13.utdallas.edu,D0,365 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:365
+Commit  net13.utdallas.edu,D0,365 
+Request  net13.utdallas.edu,D1,366 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:366
+Commit  net13.utdallas.edu,D1,366 
+Request  net13.utdallas.edu,D0,367 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:367
+Commit  net13.utdallas.edu,D0,367 
+Request  net13.utdallas.edu,D1,368 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:368
+Commit  net13.utdallas.edu,D1,368 
+Request  net13.utdallas.edu,D3,369 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:369
+Commit  net13.utdallas.edu,D3,369 
+Request  net13.utdallas.edu,D2,370 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:370
+Commit  net13.utdallas.edu,D2,370 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,371 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:371
+Commit  net13.utdallas.edu,D1,371 
+Request  net13.utdallas.edu,D3,372 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:372
+Commit  net13.utdallas.edu,D3,372 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,373 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,373 
+Request  net13.utdallas.edu,D1,374 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:374
+Commit  net13.utdallas.edu,D1,374 
+Request  net13.utdallas.edu,D3,375 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Consistency!
+commit:375
+Commit  net13.utdallas.edu,D3,375 
+Request  net13.utdallas.edu,D3,376 
+Withdraw net13.utdallas.edu,D3,376 
+iscommit == true
+Request  net13.utdallas.edu,D3,377 
+Receive grant from server:net39.utdallas.edu
+Withdraw net13.utdallas.edu,D3,377 
+Request  net13.utdallas.edu,D1,378 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:378
+Commit  net13.utdallas.edu,D1,378 
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,379 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:379
+Commit  net13.utdallas.edu,D3,379 
+Request  net13.utdallas.edu,D3,380 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:380
+Commit  net13.utdallas.edu,D3,380 
+Request  net13.utdallas.edu,D0,381 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:381
+Commit  net13.utdallas.edu,D0,381 
+Request  net13.utdallas.edu,D0,382 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:382
+Commit  net13.utdallas.edu,D0,382 
+iscommit == true
+Request  net13.utdallas.edu,D1,383 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:383
+Commit  net13.utdallas.edu,D1,383 
+Request  net13.utdallas.edu,D2,384 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:384
+Commit  net13.utdallas.edu,D2,384 
+Request  net13.utdallas.edu,D1,385 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:385
+Commit  net13.utdallas.edu,D1,385 
+iscommit == true
+Request  net13.utdallas.edu,D1,386 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:386
+iscommit == true
+Commit  net13.utdallas.edu,D1,386 
+iscommit == true
+Request  net13.utdallas.edu,D3,387 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D3,387 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,388 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:388
+Commit  net13.utdallas.edu,D3,388 
+Request  net13.utdallas.edu,D3,389 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:389
+Commit  net13.utdallas.edu,D3,389 
+Request  net13.utdallas.edu,D0,390 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:390
+Commit  net13.utdallas.edu,D0,390 
+Request  net13.utdallas.edu,D1,391 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:391
+Commit  net13.utdallas.edu,D1,391 
+iscommit == true
+Request  net13.utdallas.edu,D2,392 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:392
+Commit  net13.utdallas.edu,D2,392 
+Request  net13.utdallas.edu,D2,393 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D2,393 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,394 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:394
+Commit  net13.utdallas.edu,D0,394 
+iscommit == true
+Request  net13.utdallas.edu,D3,395 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:395
+Commit  net13.utdallas.edu,D3,395 
+Request  net13.utdallas.edu,D1,396 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net09.utdallas.edu
+Consistency!
+iscommit == true
+commit:396
+Commit  net13.utdallas.edu,D1,396 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,397 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:397
+Commit  net13.utdallas.edu,D0,397 
+iscommit == true
+Request  net13.utdallas.edu,D0,398 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:398
+Commit  net13.utdallas.edu,D0,398 
+Request  net13.utdallas.edu,D3,399 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:399
+Commit  net13.utdallas.edu,D3,399 
+Request  net13.utdallas.edu,D2,400 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:400
+Commit  net13.utdallas.edu,D2,400 
+Request  net13.utdallas.edu,D1,401 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:401
+Commit  net13.utdallas.edu,D1,401 
+iscommit == true
+Request  net13.utdallas.edu,D1,402 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:402
+Commit  net13.utdallas.edu,D1,402 
+Request  net13.utdallas.edu,D1,403 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:403
+Commit  net13.utdallas.edu,D1,403 
+Request  net13.utdallas.edu,D0,404 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:404
+Commit  net13.utdallas.edu,D0,404 
+Request  net13.utdallas.edu,D3,405 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:405
+Commit  net13.utdallas.edu,D3,405 
+iscommit == true
+Request  net13.utdallas.edu,D3,406 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Withdraw net13.utdallas.edu,D3,406 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,407 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:407
+Commit  net13.utdallas.edu,D3,407 
+Request  net13.utdallas.edu,D2,408 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D2,408 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,409 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:409
+Commit  net13.utdallas.edu,D3,409 
+Request  net13.utdallas.edu,D1,410 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:410
+Commit  net13.utdallas.edu,D1,410 
+Request  net13.utdallas.edu,D0,411 
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Consistency!
+commit:411
+Commit  net13.utdallas.edu,D0,411 
+iscommit == true
+Request  net13.utdallas.edu,D0,412 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Withdraw net13.utdallas.edu,D0,412 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,413 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:413
+Commit  net13.utdallas.edu,D0,413 
+Request  net13.utdallas.edu,D2,414 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:414
+Commit  net13.utdallas.edu,D2,414 
+Request  net13.utdallas.edu,D1,415 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:415
+Commit  net13.utdallas.edu,D1,415 
+iscommit == true
+Request  net13.utdallas.edu,D0,416 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,416 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,417 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,417 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,418 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:418
+Commit  net13.utdallas.edu,D0,418 
+Request  net13.utdallas.edu,D3,419 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:419
+Commit  net13.utdallas.edu,D3,419 
+Request  net13.utdallas.edu,D2,420 
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:420
+Commit  net13.utdallas.edu,D2,420 
+iscommit == true
+Request  net13.utdallas.edu,D3,421 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:421
+Commit  net13.utdallas.edu,D3,421 
+Request  net13.utdallas.edu,D1,422 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:422
+Commit  net13.utdallas.edu,D1,422 
+iscommit == true
+Request  net13.utdallas.edu,D2,423 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:423
+Commit  net13.utdallas.edu,D2,423 
+Request  net13.utdallas.edu,D2,424 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:424
+Commit  net13.utdallas.edu,D2,424 
+Request  net13.utdallas.edu,D1,425 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:425
+Commit  net13.utdallas.edu,D1,425 
+Request  net13.utdallas.edu,D1,426 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:426
+Commit  net13.utdallas.edu,D1,426 
+Request  net13.utdallas.edu,D0,427 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:427
+Commit  net13.utdallas.edu,D0,427 
+Request  net13.utdallas.edu,D3,428 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:428
+Commit  net13.utdallas.edu,D3,428 
+Request  net13.utdallas.edu,D1,429 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D1,429 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D2,430 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:430
+Commit  net13.utdallas.edu,D2,430 
+Request  net13.utdallas.edu,D0,431 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:431
+Commit  net13.utdallas.edu,D0,431 
+Request  net13.utdallas.edu,D0,432 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:432
+Commit  net13.utdallas.edu,D0,432 
+Request  net13.utdallas.edu,D3,433 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:433
+Commit  net13.utdallas.edu,D3,433 
+Request  net13.utdallas.edu,D1,434 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:434
+Commit  net13.utdallas.edu,D1,434 
+Request  net13.utdallas.edu,D2,435 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:435
+Commit  net13.utdallas.edu,D2,435 
+Request  net13.utdallas.edu,D3,436 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:436
+Commit  net13.utdallas.edu,D3,436 
+Request  net13.utdallas.edu,D2,437 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:437
+Commit  net13.utdallas.edu,D2,437 
+Request  net13.utdallas.edu,D2,438 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:438
+Commit  net13.utdallas.edu,D2,438 
+Request  net13.utdallas.edu,D2,439 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:439
+Commit  net13.utdallas.edu,D2,439 
+Request  net13.utdallas.edu,D3,440 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:440
+Commit  net13.utdallas.edu,D3,440 
+Request  net13.utdallas.edu,D1,441 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:441
+Commit  net13.utdallas.edu,D1,441 
+Request  net13.utdallas.edu,D2,442 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Consistency!
+commit:442
+iscommit == true
+Commit  net13.utdallas.edu,D2,442 
+Request  net13.utdallas.edu,D2,443 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:443
+Commit  net13.utdallas.edu,D2,443 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,444 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:444
+Commit  net13.utdallas.edu,D1,444 
+Request  net13.utdallas.edu,D1,445 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:445
+Commit  net13.utdallas.edu,D1,445 
+iscommit == true
+Request  net13.utdallas.edu,D0,446 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Withdraw net13.utdallas.edu,D0,446 
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,447 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Withdraw net13.utdallas.edu,D3,447 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,448 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Withdraw net13.utdallas.edu,D0,448 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D1,449 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:449
+Commit  net13.utdallas.edu,D1,449 
+Request  net13.utdallas.edu,D0,450 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:450
+Commit  net13.utdallas.edu,D0,450 
+Request  net13.utdallas.edu,D0,451 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D0,451 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,452 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Withdraw net13.utdallas.edu,D0,452 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,453 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:453
+Commit  net13.utdallas.edu,D3,453 
+Request  net13.utdallas.edu,D3,454 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:454
+Commit  net13.utdallas.edu,D3,454 
+Request  net13.utdallas.edu,D0,455 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:455
+Commit  net13.utdallas.edu,D0,455 
+Request  net13.utdallas.edu,D1,456 
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Receive grant from server:net08.utdallas.edu
+Consistency!
+commit:456
+Commit  net13.utdallas.edu,D1,456 
+Request  net13.utdallas.edu,D2,457 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:457
+Commit  net13.utdallas.edu,D2,457 
+Request  net13.utdallas.edu,D0,458 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net07.utdallas.edu
+Consistency!
+commit:458
+iscommit == true
+Commit  net13.utdallas.edu,D0,458 
+iscommit == true
+Request  net13.utdallas.edu,D2,459 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:459
+Commit  net13.utdallas.edu,D2,459 
+Request  net13.utdallas.edu,D1,460 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:460
+Commit  net13.utdallas.edu,D1,460 
+Request  net13.utdallas.edu,D3,461 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:461
+Commit  net13.utdallas.edu,D3,461 
+Request  net13.utdallas.edu,D2,462 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:462
+Commit  net13.utdallas.edu,D2,462 
+Request  net13.utdallas.edu,D1,463 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:463
+Commit  net13.utdallas.edu,D1,463 
+Request  net13.utdallas.edu,D2,464 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:464
+Commit  net13.utdallas.edu,D2,464 
+Request  net13.utdallas.edu,D0,465 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:465
+Commit  net13.utdallas.edu,D0,465 
+Request  net13.utdallas.edu,D0,466 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:466
+Commit  net13.utdallas.edu,D0,466 
+Request  net13.utdallas.edu,D2,467 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:467
+Commit  net13.utdallas.edu,D2,467 
+Request  net13.utdallas.edu,D2,468 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:468
+Commit  net13.utdallas.edu,D2,468 
+Request  net13.utdallas.edu,D0,469 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:469
+Commit  net13.utdallas.edu,D0,469 
+Request  net13.utdallas.edu,D0,470 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:470
+Commit  net13.utdallas.edu,D0,470 
+Request  net13.utdallas.edu,D0,471 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:471
+Commit  net13.utdallas.edu,D0,471 
+Request  net13.utdallas.edu,D2,472 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:472
+Commit  net13.utdallas.edu,D2,472 
+Request  net13.utdallas.edu,D3,473 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:473
+Commit  net13.utdallas.edu,D3,473 
+Request  net13.utdallas.edu,D0,474 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:474
+Commit  net13.utdallas.edu,D0,474 
+Request  net13.utdallas.edu,D1,475 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:475
+Commit  net13.utdallas.edu,D1,475 
+Request  net13.utdallas.edu,D1,476 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:476
+Commit  net13.utdallas.edu,D1,476 
+Request  net13.utdallas.edu,D1,477 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:477
+Commit  net13.utdallas.edu,D1,477 
+Request  net13.utdallas.edu,D3,478 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:478
+Commit  net13.utdallas.edu,D3,478 
+Request  net13.utdallas.edu,D1,479 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:479
+Commit  net13.utdallas.edu,D1,479 
+Request  net13.utdallas.edu,D0,480 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:480
+Commit  net13.utdallas.edu,D0,480 
+Request  net13.utdallas.edu,D3,481 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:481
+Commit  net13.utdallas.edu,D3,481 
+Request  net13.utdallas.edu,D0,482 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:482
+Commit  net13.utdallas.edu,D0,482 
+Request  net13.utdallas.edu,D3,483 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:483
+Commit  net13.utdallas.edu,D3,483 
+Request  net13.utdallas.edu,D3,484 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:484
+Commit  net13.utdallas.edu,D3,484 
+Request  net13.utdallas.edu,D2,485 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Withdraw net13.utdallas.edu,D2,485 
+iscommit == true
+iscommit == true
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D0,486 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:486
+Commit  net13.utdallas.edu,D0,486 
+Request  net13.utdallas.edu,D3,487 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:487
+Commit  net13.utdallas.edu,D3,487 
+Request  net13.utdallas.edu,D1,488 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:488
+Commit  net13.utdallas.edu,D1,488 
+Request  net13.utdallas.edu,D3,489 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:489
+Commit  net13.utdallas.edu,D3,489 
+Request  net13.utdallas.edu,D2,490 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:490
+iscommit == true
+Commit  net13.utdallas.edu,D2,490 
+iscommit == true
+iscommit == true
+Request  net13.utdallas.edu,D3,491 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:491
+Commit  net13.utdallas.edu,D3,491 
+Request  net13.utdallas.edu,D2,492 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:492
+Commit  net13.utdallas.edu,D2,492 
+Request  net13.utdallas.edu,D2,493 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:493
+Commit  net13.utdallas.edu,D2,493 
+Request  net13.utdallas.edu,D3,494 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:494
+Commit  net13.utdallas.edu,D3,494 
+Request  net13.utdallas.edu,D1,495 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:495
+Commit  net13.utdallas.edu,D1,495 
+Request  net13.utdallas.edu,D3,496 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:496
+Commit  net13.utdallas.edu,D3,496 
+Request  net13.utdallas.edu,D1,497 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:497
+Commit  net13.utdallas.edu,D1,497 
+Request  net13.utdallas.edu,D1,498 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:498
+Commit  net13.utdallas.edu,D1,498 
+Request  net13.utdallas.edu,D2,499 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:499
+Commit  net13.utdallas.edu,D2,499 
+Request  net13.utdallas.edu,D0,500 
+Receive grant from server:net39.utdallas.edu
+Receive grant from server:net04.utdallas.edu
+Receive grant from server:net38.utdallas.edu
+Receive grant from server:net06.utdallas.edu
+Consistency!
+commit:500
+Commit  net13.utdallas.edu,D0,500 
+The number of successful access:405
+The number of unsuccessful access:95
+Min:646,Max:1696,Average:1213
